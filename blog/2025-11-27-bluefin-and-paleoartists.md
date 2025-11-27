@@ -13,21 +13,18 @@ Our newest collaboration is with [Dr. Natalia Jagielska](https://natalia-jagiels
 
 The first you probably already recognize since it's been the wallpaper of the month for November, entitled _Collapse_:
 
-| Light | Dark |
-|:---:|:---:|
-| ![Collapse Light](/img/wallpapers/collapse-light-thumb.png) | ![Collapse Dark](/img/wallpapers/collapse-dark-thumb.png) |
+![Collapse Light](/img/wallpapers/collapse-light-thumb.png)
+![Collapse Dark](/img/wallpapers/collapse-dark-thumb.png)
 
 The second is an homage to Ubuntu's [famous Hardy Heron wallpaper](https://www.omgubuntu.co.uk/2020/04/focal-fossa-familiar-face-wallpaper), originally designed by Ken Wimer. This one is a mashup of one Natalia's pterosaurs in place of the heron. This one is called _Tenacious Pterosaur_.
 
-| Light | Dark |
-|:---:|:---:|
-| ![Tenacious Pterosaur Light](/img/wallpapers/tenacious-pterosaur-light-thumb.png) | ![Tenacious Pterosaur Dark](/img/wallpapers/tenacious-pterosaur-dark-thumb.png) |
+![Tenacious Pterosaur Light](/img/wallpapers/tenacious-pterosaur-light-thumb.png)
+![Tenacious Pterosaur Dark](/img/wallpapers/tenacious-pterosaur-dark-thumb.png)
 
 And lastly we have _Prey_, starring a hungry [Venetoraptor gassenae](https://en.wikipedia.org/wiki/Venetoraptor), which is a pterosaur ancestor from the Triassic. This one surprised me, I thought it was a mammal at first!
 
-| Light | Dark |
-|:---:|:---:|
-| ![Prey Light](/img/wallpapers/prey-light-thumb.png) | ![Prey Dark](/img/wallpapers/prey-dark-thumb.png) |
+![Prey Light](/img/wallpapers/prey-light-thumb.png)
+![Prey Dark](/img/wallpapers/prey-dark-thumb.png)
 
 All the wallpapers have a night version as well, so go check it out!
 
@@ -37,9 +34,8 @@ Natalia's artwork was vectorized and remastered by [Delphic Melody](https://ko-f
 
 Original Bluefin artist Andy Frazer returns with _Dusk_. I love this one.
 
-| Light | Dark |
-|:---:|:---:|
-| ![Dusk Light](/img/wallpapers/dusk-light-thumb.png) | ![Dusk Dark](/img/wallpapers/dusk-dark-thumb.png) |
+![Dusk Light](/img/wallpapers/dusk-light-thumb.png)
+![Dusk Dark](/img/wallpapers/dusk-dark-thumb.png)
 
 Also Andy is working on another Bluefin for us, which I haven't seen yet. I can't wait to find out!
 
