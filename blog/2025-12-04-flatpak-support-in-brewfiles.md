@@ -68,6 +68,7 @@ All the standard `brew bundle` commands work with Flatpak:
 - **`brew bundle cleanup`** - Remove Flatpak packages not in your Brewfile
 - **`brew bundle check`** - Verify all Flatpak packages are installed
 - **`brew bundle list --flatpak`** - List Flatpak packages in your Brewfile
+- **`brew bundle list --all`** - List all Brew and Flatpak packages in your Brewfile 
 
 Check out the [brew bundle documentation](https://docs.brew.sh/Brew-Bundle-and-Brewfile) for more information. 
 
@@ -82,6 +83,9 @@ brew bundle dump --no-flatpak
 
 # List only Flatpak packages
 brew bundle list --flatpak
+
+# List all Brew and Flatpak packages
+brew bundle list --all
 ```
 
 ## Why This Matters for Bluefin
